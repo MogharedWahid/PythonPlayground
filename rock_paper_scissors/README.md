@@ -22,7 +22,7 @@ Welcome to the **Rock-Paper-Scissors** game! This is a simple command-line game 
 ## How to Run the Game
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MogharedWahid/PythonPlayground/rock_paper_scissors.git
+   git clone https://github.com/MogharedWahid/PythonPlayground.git
 2. Navigate to the project directory:
    ```bash
    cd PythonPlayground
