@@ -9,7 +9,6 @@ Welcome to the **Rock-Paper-Scissors** game! This is a simple command-line game 
 - [Gameplay Instructions](#gameplay-instructions)
 - [Game Logic](#game-logic)
 - [ASCII Art](#ascii-art)
-- [License](#license)
 
 ## Features
 - Play against a computer opponent.
