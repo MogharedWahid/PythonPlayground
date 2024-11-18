@@ -8,7 +8,7 @@ In this playground, you'll find a variety of Python tasks and projects that refl
 ## 📅 Tasks
 Each folder corresponds to a task in the bootcamp and contains:
 - **`task.py`**: The main Python file for that task, demonstrating the concepts learned.
-- **`notes.md`**: My personal reflections, challenges faced, and key takeaways from that task.
+- **`README.md`**: Provides an overview of the project, including its purpose, features and usage guidelines.
 
 ## 🛠️ How to Use This Repository
 Feel free to explore my projects! Here’s how you can get started:
