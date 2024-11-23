@@ -4,14 +4,6 @@
 
 Welcome to the Hangman Game! This is a simple yet fun command-line game implemented in Python where players guess letters to reveal a hidden word. The player has a limited number of incorrect guesses (lives) before losing the game.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Game Logic](#game-logic)
-- [Modules](#modules)
-
 ## Features
 
 - Randomly selects a word from a predefined list.
