@@ -4,14 +4,6 @@
 
 Welcome to the Caesar Cipher project! This project implements a simple Caesar cipher, a type of substitution cipher where each letter in the plaintext is 'shifted' a certain number of places down or up the alphabet.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Modules](#modules)
-
 ## Features
 
 - Encode and decode messages using a user-defined shift value.
