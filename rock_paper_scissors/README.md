@@ -2,14 +2,6 @@
 
 Welcome to the **Rock-Paper-Scissors** game! This is a simple command-line game where you can compete against the computer. The game features ASCII art for visual representation and allows you to play multiple rounds.
 
-## Table of Contents
-- [Features](#features)
-- [Requirements](#requirements)
-- [How to Run the Game](#how-to-run-the-game)
-- [Gameplay Instructions](#gameplay-instructions)
-- [Game Logic](#game-logic)
-- [ASCII Art](#ascii-art)
-
 ## Features
 - Play against a computer opponent.
 - Clear ASCII art representations of Rock, Paper, and Scissors.
