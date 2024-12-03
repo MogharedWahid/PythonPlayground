@@ -1,6 +1,6 @@
 # Blackjack Game
 
-![Blackjack Logo](https://github.com/MogharedWahid/PythonPlayground/blob/main/blackjack/blackjack.jpg)
+![Blackjack Logo](https://github.com/MogharedWahid/PythonPlayground/blob/main/Beginner/blackjack/blackjack.jpg)
 
 Welcome to the **Blackjack Game**! This is a Python implementation of the classic card game, where players compete against a computer dealer. The goal is to accumulate a higher score than the dealer without exceeding 21.
 
