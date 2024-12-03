@@ -1,6 +1,6 @@
 # Hangman Game
 
-![Hangman Logo](https://github.com/MogharedWahid/PythonPlayground/blob/main/hangman/hangman.png)
+![Hangman Logo](https://github.com/MogharedWahid/PythonPlayground/blob/main/Beginner/hangman/hangman.png)
 
 Welcome to the Hangman Game! This is a simple yet fun command-line game implemented in Python where players guess letters to reveal a hidden word. The player has a limited number of incorrect guesses (lives) before losing the game.
 
