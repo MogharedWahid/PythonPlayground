@@ -1,6 +1,6 @@
 # Caesar Cipher
 
-![Caesar Cipher Logo](https://github.com/MogharedWahid/PythonPlayground/blob/main/caesar_cipher/caesar_cipher.jpg)
+![Caesar Cipher Logo](https://github.com/MogharedWahid/PythonPlayground/blob/main/Beginner/caesar_cipher/caesar_cipher.jpg)
 
 Welcome to the Caesar Cipher project! This project implements a simple Caesar cipher, a type of substitution cipher where each letter in the plaintext is 'shifted' a certain number of places down or up the alphabet.
 
