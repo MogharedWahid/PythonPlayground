@@ -1,6 +1,6 @@
 # Higher Lower Game
 
-![Higher Lower Game Logo](https://github.com/MogharedWahid/PythonPlayground/blob/main/higher_lower/higher_lower.png)
+![Higher Lower Game Logo](https://github.com/MogharedWahid/PythonPlayground/blob/main/Beginner/higher_lower/higher_lower.png)
 
 Welcome to the Higher Lower Game! This interactive console-based game allows players to guess which celebritys or influencers has higher or lower followers on Instagram. The game randomly selects two influencers from a dataset and challenges the player to determine which one has a higher follower count.
 
