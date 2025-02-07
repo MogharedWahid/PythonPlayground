@@ -10,8 +10,6 @@ Over the course of 100 days, I’ve gone from beginner to Python pro — and I�
 - [Projects](#projects)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🔍 About
 Welcome to **Python Playground** — a collection of **fun and practical Python projects** that I've built while learning Python! 🖥️
