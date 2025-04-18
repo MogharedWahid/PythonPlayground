@@ -3,7 +3,7 @@ import requests
 
 # -------------------- USER CONFIGURATION --------------------
 USERNAME = "moghared"
-TOKEN = "qwe1qwe2qwe3qwe4"
+TOKEN = "PutYourTokenHere"
 
 # -------------------- ENDPOINTS --------------------
 PIXELA_ENDPOINT = "https://pixe.la/v1/users"
